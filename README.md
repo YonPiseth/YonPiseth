@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Yon Piseth
 
-<!--
-**YonPiseth/YonPiseth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student | 💻 Aspiring Developer | 🇰🇭 Cambodia  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌱 Currently learning: **Programming & Software Development**
+- 💡 Interested in: **Web Development, Mobile Apps, and Technology**
+- 🎯 Goal: Become a skilled developer and build useful projects
+- 📍 Based in: Phnom Penh, Cambodia  
+
+---
+
+## 🛠️ Skills & Tools
+- 💻 Languages: `HTML` `CSS` `JavaScript` `Dart` `Python` `MySQL`
+- ⚙️ Tools: `Git` `GitHub` `VS Code`
+- 🌐 Learning: `React`
+
+---
+
+## 📂 Projects
+*(Add your projects here later)*  
+- 🔹 Project Name – short description  
+- 🔹 Another Project – what it does  
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YonPiseth&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Contact Me
+- 📧 Email: pisethyon987@gmail.com
+- 🌐 Facebook: 
+- 📱 Telegram:+855 77 754 345
+
+---
+
+## ⚡ Fun Fact
+> I’m on a journey to become a professional developer 🚀
